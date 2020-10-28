@@ -1,0 +1,19 @@
+# ignore sphinx folder
+sphinx
+
+
+# ignore compilation files
+dist
+crear_whl.bat
+
+# ignore Excel files
+*.xlsx
+*.tsv
+
+# ignore virtual env
+env
+
+# ignore other files
+.idea
+__pycache__
+vista_reporte.gif
